@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi there 👋😄⚡🔭
 ![github-user-contribution](https://user-images.githubusercontent.com/113315995/214630493-005765ad-8869-4af9-a6b3-68328c754466.svg)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hermezHK&layout=compact&langs_count=10&bg_color=00000000)   
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hermezHK&show_icons=true&theme=transparent)
 <!--
-**hermezHK/hermezHK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
