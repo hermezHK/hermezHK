@@ -1,5 +1,5 @@
 ### Hi there 👋😄⚡🔭
-<p align="center"><img src="https://user-images.githubusercontent.com/113315995/214630493-005765ad-8869-4af9-a6b3-68328c754466.svg"/></p>
+
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hermezHK&show_icons=true&theme=transparent"  /></p>
 
