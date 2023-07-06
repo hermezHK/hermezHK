@@ -49,9 +49,9 @@ if __name__ == '__main__':
   <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="Flask" height="25" src="images/flask.png"></code>
   <code><img title="Nodejs" height="25" src="images/NODEJS.png"></code>
-  <code><img title="Docker" height="25" src="images/DOCKER.png"></code>
-  <code><img title="Grafana" height="25" src="images/GRAFANA.jpg"></code>
-  <code><img title="TenserFlow" height="25" src="images/TENSOR.png"></code>
+  <code><img title="Docker" height="25" src="images/DOCKER2.png"></code>
+  <code><img title="Grafana" height="25" src="images/GRAFANA2.png"></code>
+  <code><img title="TenserFlow" height="25" src="images/TENSOR2.png"></code>
   <code><img title="Typescript" height="25" src="images/TYPESCRIPT.png"></code>
 </p>
 
