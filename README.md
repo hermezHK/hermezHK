@@ -48,6 +48,7 @@ if __name__ == '__main__':
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="Flask" height="25" src="images/flask.png"></code>
+  <code><img title="Nodejs" height="25" src="images/NODEJS.png"></code>
 </p>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
