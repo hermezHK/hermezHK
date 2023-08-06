@@ -58,10 +58,6 @@ if __name__ == '__main__':
 
 <h2 align="center">⚡ Stats !⚡</h2>
 
-<div align="center">
-  <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-</div>
-
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermezHK&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
